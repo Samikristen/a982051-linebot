@@ -6,9 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03da04f5-a051-4227-9a6c-973b71215b0b" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/a982051-linebot/Controllers/LineBotController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a982051-linebot/LineBotApp.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a982051-linebot/LineBotConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a982051-linebot/WebhookRequestMessageHelper.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.a982051-linebot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.a982051-linebot/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/a982051-linebot/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/a982051-linebot/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a982051-linebot/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/a982051-linebot/Views/Home/Index.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/a982051-linebot/a982051-linebot.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/a982051-linebot/a982051-linebot.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +82,7 @@
       <updated>1683617339204</updated>
       <workItem from="1683617344145" duration="2439000" />
       <workItem from="1684221607451" duration="2141000" />
+      <workItem from="1684825691881" duration="5211000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1683617599838</created>
