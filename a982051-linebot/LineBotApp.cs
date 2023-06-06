@@ -30,6 +30,21 @@ public class LineBotApp : WebhookApplication
                 {
                     new TextMessage("你怎麼這麼可憐，只能跑來和機器人說話")
                 };
+                //回傳 B站Vup推薦
+                result = new List<ISendMessage>
+                {
+                    new TextMessage("長庚和尤塞斯，一個可愛夢魔一個日系男二")
+                };
+                //回傳 Vtuber推薦
+                result = new List<ISendMessage>
+                {
+                    new TextMessage("holostars!")
+                };
+                //回傳 NT
+                result = new List<ISendMessage>
+                {
+                    new TextMessage("壓榨盤古和老張的糟糕狒狒")
+                };
             }
                 break;
         }
